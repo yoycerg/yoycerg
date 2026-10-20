@@ -1,52 +1,63 @@
-# ¡Hola! Soy Yoycer García 👋
+# Yoycer García
+### Desarrollador Web en Formación | Estudiante de Programación
 
-💻 **Desarrollador web en formación | Estudiante de programación**
-
-Me interesa el desarrollo web, la programación y la creación de soluciones tecnológicas. Actualmente sigo aprendiendo y desarrollando proyectos para mejorar mis habilidades y adquirir experiencia práctica.
-
-## 🚀 Mi portafolio
-
-🌐 **[Visita mi portafolio web](PEGA_AQUI_EL_LINK_DE_TU_PORTAFOLIO)**
-
-En mi portafolio puedes conocer más sobre mí, explorar mis proyectos y ver las tecnologías que utilizo.
-
-## 🛠️ Tecnologías y herramientas
-
-- **Frontend:** HTML, CSS y JavaScript.
-- **Backend:** Python y Flask.
-- **Bases de datos:** SQL y MySQL.
-- **Herramientas:** Git, GitHub y Visual Studio Code.
-- **Sistemas operativos:** Windows y Linux.
-
-## 📂 Proyectos destacados
-
-### 💻 Mando de PlayStation desde el celular
-Aplicación de práctica que utiliza Bluetooth para convertir un teléfono móvil en un mando para juegos compatibles.
-
-### 📚 BookHub
-Proyecto web de práctica enfocado en el registro de usuarios y libros.
-
-### 🧠 EmocionaMente
-Sitio web informativo sobre bienestar emocional, con secciones de libros, música y lugares tranquilos.
-
-### ✅ TaskTrack y proyectos CRUD
-Prácticas de desarrollo web con Python y Flask para gestionar registros y trabajar con bases de datos.
-
-🔎 Puedes encontrar mis proyectos en la sección de repositorios de mi perfil.
-
-## 🎯 Actualmente
-
-- 📖 Aprendiendo y practicando desarrollo web.
-- 🧩 Mejorando mis habilidades de programación.
-- 🚀 Desarrollando proyectos personales y académicos.
-- 💼 Interesado en oportunidades de práctica y crecimiento profesional.
-
-## 🤝 Conectemos
-
-- 🌐 **Portafolio:** [Ver mi página web](PEGA_AQUI_EL_LINK_DE_TU_PORTAFOLIO)
-- 💼 **LinkedIn:** [Mi perfil profesional](PEGA_AQUI_TU_LINK_DE_LINKEDIN)
-- 📧 **Correo:** [yoycer23@gmail.com](mailto:yoycer23@gmail.com)
+Me interesa el desarrollo de software, la creación de aplicaciones y el diseño de soluciones tecnológicas. Actualmente estoy fortaleciendo mis conocimientos mediante proyectos académicos y personales, con especial interés en el desarrollo web y el trabajo con bases de datos.
 
 ---
 
-⭐ Gracias por visitar mi perfil. ¡Estoy en constante aprendizaje!
+## Sobre mí
+
+Soy estudiante de programación y me encuentro en constante aprendizaje, desarrollando proyectos que me permiten aplicar mis conocimientos y mejorar mis habilidades técnicas.
+
+Me caracterizo por ser una persona responsable, perseverante y comprometida con mi trabajo. Mi objetivo es continuar creciendo profesionalmente, adquirir experiencia práctica y participar en proyectos donde pueda aportar y aprender.
+
+## Tecnologías y herramientas
+
+**Desarrollo web**
+- HTML5
+- CSS3
+- JavaScript
+
+**Backend y bases de datos**
+- Python
+- Flask
+- SQL y MySQL
+
+**Herramientas y sistemas**
+- Git y GitHub
+- Visual Studio Code
+- Windows y Linux
+
+## Proyectos destacados
+
+### BookHub
+Aplicación web de práctica orientada al registro de usuarios y la gestión de libros, desarrollada como parte de mi aprendizaje en programación y bases de datos.
+
+### EmocionaMente
+Sitio web informativo enfocado en el bienestar emocional, con secciones dedicadas a libros, música y espacios tranquilos.
+
+### TaskTrack
+Proyecto de gestión de tareas desarrollado con Python, Flask y bases de datos, orientado a practicar operaciones CRUD y organización de información.
+
+### Aplicación móvil como mando de videojuegos
+Proyecto de práctica que utiliza Bluetooth para conectar un teléfono móvil y emplearlo como mando para juegos compatibles.
+
+### Otros proyectos académicos
+Ejercicios de programación, desarrollo web y bases de datos realizados para fortalecer mis conocimientos y adquirir experiencia práctica.
+
+## Actualmente
+
+- Perfeccionando mis conocimientos de desarrollo web.
+- Practicando Python, Flask y bases de datos.
+- Desarrollando proyectos para mi portafolio profesional.
+- Preparándome para futuras oportunidades de práctica y crecimiento laboral.
+
+## Enlaces profesionales
+
+- **Portafolio:** [Visitar mi portafolio](PEGA_AQUI_EL_LINK_DE_TU_PORTAFOLIO)
+- **LinkedIn:** [Ver mi perfil profesional](PEGA_AQUI_TU_LINK_DE_LINKEDIN)
+- **Correo:** [yoycer23@gmail.com](mailto:yoycer23@gmail.com)
+
+---
+
+*Gracias por visitar mi perfil. Estoy comprometido con el aprendizaje continuo y el desarrollo de soluciones tecnológicas.*
