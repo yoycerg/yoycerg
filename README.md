@@ -55,7 +55,7 @@ Ejercicios de programación, desarrollo web y bases de datos realizados para for
 ## Enlaces profesionales
 
 - **Portafolio:** [Visitar mi portafolio](https://yoycerg.github.io/Mi_portafolio/)
-- **LinkedIn:** [Ver mi perfil profesional](www.linkedin.com/in/yoycer-garcía-00308939a)
+- **LinkedIn:** [Ver mi perfil profesional](https://www.linkedin.com/in/yoycer-garc%C3%ADa-00308939a/?isSelfProfile=true)
 - **Correo:** [yoycer23@gmail.com](mailto:yoycer23@gmail.com)
 
 ---
